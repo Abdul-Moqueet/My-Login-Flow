@@ -1,4 +1,4 @@
-package com.example.android.firebaseui_login_sample
+package com.moqueet.abdul.my_login_flow
 
 import com.google.firebase.auth.FirebaseUser
 import com.google.firebase.auth.FirebaseAuth

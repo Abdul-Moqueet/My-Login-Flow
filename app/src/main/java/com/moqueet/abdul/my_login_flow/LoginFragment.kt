@@ -1,4 +1,4 @@
-package com.example.android.firebaseui_login_sample
+package com.moqueet.abdul.my_login_flow
 
 import android.app.Activity
 import android.content.Intent
@@ -14,10 +14,10 @@ import androidx.activity.addCallback
 import androidx.databinding.DataBindingUtil
 import androidx.fragment.app.viewModels
 import androidx.navigation.NavController
-import com.example.android.firebaseui_login_sample.databinding.*
 import com.firebase.ui.auth.AuthUI
 import com.firebase.ui.auth.IdpResponse
 import com.google.firebase.auth.FirebaseAuth
+import com.moqueet.abdul.my_login_flow.databinding.FragmentLoginBinding
 
 class LoginFragment : Fragment() {
 

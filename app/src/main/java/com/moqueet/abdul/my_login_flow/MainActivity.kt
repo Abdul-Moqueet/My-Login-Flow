@@ -1,4 +1,4 @@
-package com.example.android.firebaseui_login_sample
+package com.moqueet.abdul.my_login_flow
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

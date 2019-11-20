@@ -4,7 +4,7 @@ apply plugin: 'kotlin-android'
 android {
     compileSdkVersion 29
     defaultConfig {
-        applicationId "com.example.android.firebaseui_login_sample"
+        applicationId "com.moqueet.abdul.my_login_flow"
         minSdkVersion 19
         targetSdkVersion 29
         versionCode 1

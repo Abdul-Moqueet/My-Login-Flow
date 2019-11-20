@@ -8,7 +8,7 @@
 
     <fragment
             android:id="@+id/mainFragment"
-            android:name="com.example.android.firebaseui_login_sample.MainFragment"
+            android:name="com.moqueet.abdul.my_login_flow.MainFragment"
             android:label="MainFragment">
 
         <action android:id="@+id/action_mainFragment_to_settingsFragment"
@@ -18,13 +18,13 @@
 
     <fragment
             android:id="@+id/settingsFragment"
-            android:name="com.example.android.firebaseui_login_sample.SettingsFragment"
+            android:name="com.moqueet.abdul.my_login_flow.SettingsFragment"
             android:label="fragment_settings">
     </fragment>
 
     <fragment
             android:id="@+id/loginFragment"
-            android:name="com.example.android.firebaseui_login_sample.LoginFragment"
+            android:name="com.moqueet.abdul.my_login_flow.LoginFragment"
             android:label="fragment_login"
             tools:layout="@layout/fragment_login"/>
 </navigation>
