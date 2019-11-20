@@ -15,11 +15,11 @@
       },
       "oauth_client": [
         {
-          "client_id": "178471432653-lafc8bgbk4r1n67tn53q50vb28g7j8hq.apps.googleusercontent.com",
+          "client_id": "178471432653-5pfm2i1sp13tcbccg9vdtm5qvv5a1v3g.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.moqueet.abdul.my_login_flow",
-            "certificate_hash": "149c294f1d4d76ea3faddda8cedb95db24add4e3"
+            "certificate_hash": "9ec1c8834c97e80d4f4b98acb146a5d9d0a1ee61"
           }
         },
         {
